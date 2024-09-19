@@ -14,7 +14,11 @@
   - Instagram: [xboylinux.ig](https://www.instagram.com/xboylinux.ig)
   - Email: [xboylinuxriport@gmail.com](mailto:xboylinuxriport@gmail.com)
 
-- 🎵 Now playing: [Sad Song on Spotify](https://open.spotify.com/track/your-sad-song-link)
+- 🎵 Now playing: [Feel So Empty by Sahashi Yohei](https://open.spotify.com/track/7vzSI6FJdJEu17dY2cng8V?si=pjIaRGKaRAyzr4NI1GdE9A)
+
+<p align="center">
+  <iframe src="https://open.spotify.com/embed/track/7vzSI6FJdJEu17dY2cng8V?utm_source=generator" width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</p>
 
 ---
 
@@ -52,6 +56,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Kawaii Anime" />
+</p>
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=default" alt="Spotify Now Playing" width="400" />
