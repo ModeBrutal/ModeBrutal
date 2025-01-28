@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <img src="/path/to/your/local/file/vtuber-foxplushy.gif" alt="Anime Kawaii" width="300" />
+  <img src="https://raw.githubusercontent.com/ModeBrutal/uploader/refs/heads/main/nonono-anime-no.gif" alt="Anime Kawaii" width="300" />
 </p>
