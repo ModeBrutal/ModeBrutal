@@ -25,6 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
+<h2 align="left">📊 Skill Levels:</h2>
+<p align="left">
+  - **Python**: ![Python](https://progress-bar.dev/90/?scale=100&title=Python&width=250&color=blue)
+  - **PHP**: ![PHP](https://progress-bar.dev/80/?scale=100&title=PHP&width=250&color=red)
+  - **Bash**: ![Bash](https://progress-bar.dev/85/?scale=100&title=Bash&width=250&color=green)
+</p>
+
 ---
 
 <h2 align="left">📊 GitHub Stats:</h2>
