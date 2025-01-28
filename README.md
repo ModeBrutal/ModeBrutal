@@ -25,13 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
-<h2 align="left">📊 Skill Levels:</h2>
-<p align="left">
-  - **Python**: ![Python](https://progress-bar.dev/90/?scale=100&title=Python&width=250&color=blue)
-  - **PHP**: ![PHP](https://progress-bar.dev/80/?scale=100&title=PHP&width=250&color=red)
-  - **Bash**: ![Bash](https://progress-bar.dev/85/?scale=100&title=Bash&width=250&color=green)
-</p>
-
 ---
 
 <h2 align="left">📊 GitHub Stats:</h2>
@@ -63,6 +56,13 @@
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=default" alt="Spotify Now Playing" width="400" />
 </p>
+
+---
+
+<h2 align="left">Skill Levels:</h2>
+- **Python**: ![Python](https://img.shields.io/badge/Python-90%25-blue)
+- **PHP**: ![PHP](https://img.shields.io/badge/PHP-80%25-red)
+- **Bash**: ![Bash](https://img.shields.io/badge/Bash-85%25-green)
 
 ---
 
