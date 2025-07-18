@@ -25,6 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
+<h2 align="left">💻 Skill Levels:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModeBrutal&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Language Stats">
+  <br>
+  <img src="https://progress-bar.dev/90/?title=Python&width=400&color=3776AB" alt="Python">
+  <img src="https://progress-bar.dev/80/?title=PHP&width=400&color=777BB4" alt="PHP">
+  <img src="https://progress-bar.dev/85/?title=Bash&width=400&color=4EAA25" alt="Bash">
+</p>
+
 ---
 
 <h2 align="left">📊 GitHub Stats:</h2>
@@ -52,16 +61,16 @@
   Berikut adalah beberapa contoh dari proyek yang sedang saya kerjakan:
 </p>
 <ul>
-  <li>Shell backdoor sederhana yang dapat digunakan untuk mengakses sistem secara remote.</li>
-  <li>Alat eksploitasi untuk menguji kerentanan pada aplikasi web.</li>
-  <li>Script otomatisasi untuk mempermudah proses pengujian keamanan.</li>
+  <li>Shell backdoor sederhana yang dapat digunakan untuk mengakses sistem secara remote</li>
+  <li>Alat eksploitasi untuk menguji kerentanan pada aplikasi web</li>
+  <li>Script otomatisasi untuk mempermudah proses pengujian keamanan</li>
 </ul>
 
 ---
 
 <h2 align="left">🔒 Privasi:</h2>
 <p>
-  Saya menghargai privasi Anda. Informasi yang Anda berikan kepada saya melalui platform ini tidak akan dibagikan kepada pihak ketiga tanpa izin Anda. Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi saya melalui email.
+  Saya menghargai privasi Anda. Informasi yang Anda berikan kepada saya melalui platform ini tidak akan dibagikan kepada pihak ketiga tanpa izin Anda.
 </p>
 
 ---
@@ -70,22 +79,10 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=ModeBrutal&theme=react-dark" alt="Contribution Graph" />
 </p>
 
----
-
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=default" alt="Spotify Now Playing" width="400" />
 </p>
 
----
-
-<h2 align="left">Skill Levels:</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-80%25-red?style=for-the-badge" alt="PHP">
-  <img src="https://img.shields.io/badge/Bash-85%25-green?style=for-the-badge" alt="Bash">
-</p>
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ModeBrutal/uploader/refs/heads/main/nonono-anime-no.gif" alt="Anime Kawaii" width="300" />
+  <img src="https://raw.githubusercontent.com/ModeBrutal/uploader/refs/heads/main/nonono-anime-no.gif" alt="Anime Kawaii" width="300" loading="lazy" />
 </p>
