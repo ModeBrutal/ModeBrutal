@@ -7,14 +7,14 @@
 
 ---
 
-- 🔭 I’m currently working on: **Various shell backdoor scripts and exploit tools**
+- 🔭 **Currently working on:** Various shell backdoor scripts and exploit tools
 
-- 📫 How to reach me:
+- 📫 **How to reach me:**
   - TikTok: [xboylinux.ig](https://www.tiktok.com/@xboylinux.ig)
   - Instagram: [xboylinux.ig](https://www.instagram.com/xboylinux.ig)
   - Email: [xboylinuxriport@gmail.com](mailto:xboylinuxriport@gmail.com)
 
-- 🎵 Now playing: [Sad Song on Spotify](https://open.spotify.com/track/7vzSI6FJdJEu17dY2cng8V?si=pjIaRGKaRAyzr4NI1GdE9A)
+- 🎵 **Now playing:** [Sad Song on Spotify](https://open.spotify.com/track/7vzSI6FJdJEu17dY2cng8V?si=pjIaRGKaRAyzr4NI1GdE9A)
 
 ---
 
@@ -43,6 +43,25 @@
   <a href="https://www.tiktok.com/@xboylinux.ig" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="TikTok" height="30" width="30" />
   </a>
+</p>
+
+---
+
+<h2 align="left">🔍 Preview:</h2>
+<p>
+  Berikut adalah beberapa contoh dari proyek yang sedang saya kerjakan:
+</p>
+<ul>
+  <li>Shell backdoor sederhana yang dapat digunakan untuk mengakses sistem secara remote.</li>
+  <li>Alat eksploitasi untuk menguji kerentanan pada aplikasi web.</li>
+  <li>Script otomatisasi untuk mempermudah proses pengujian keamanan.</li>
+</ul>
+
+---
+
+<h2 align="left">🔒 Privasi:</h2>
+<p>
+  Saya menghargai privasi Anda. Informasi yang Anda berikan kepada saya melalui platform ini tidak akan dibagikan kepada pihak ketiga tanpa izin Anda. Jika Anda memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi saya melalui email.
 </p>
 
 ---
