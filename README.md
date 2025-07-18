@@ -79,10 +79,11 @@
 ---
 
 <h2 align="left">Skill Levels:</h2>
-- **Python**: ![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge)
-- **PHP**: ![PHP](https://img.shields.io/badge/PHP-80%25-red?style=for-the-badge)
-- **Bash**: ![Bash](https://img.shields.io/badge/Bash-85%25-green?style=for-the-badge)
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-80%25-red?style=for-the-badge" alt="PHP">
+  <img src="https://img.shields.io/badge/Bash-85%25-green?style=for-the-badge" alt="Bash">
+</p>
 ---
 
 <p align="center">
